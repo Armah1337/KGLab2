@@ -1,0 +1,12 @@
+﻿  Render.cpp
+d:\кг\мазур\kglab2\openglrememberproj\render.cpp(113): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\кг\мазур\kglab2\openglrememberproj\render.cpp(115): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\кг\мазур\kglab2\openglrememberproj\render.cpp(116): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\кг\мазур\kglab2\openglrememberproj\render.cpp(332): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+d:\кг\мазур\kglab2\openglrememberproj\render.cpp(349): warning C4018: '>': signed/unsigned mismatch
+d:\кг\мазур\kglab2\openglrememberproj\render.cpp(474): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+d:\кг\мазур\kglab2\openglrememberproj\render.cpp(529): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\кг\мазур\kglab2\openglrememberproj\render.cpp(530): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\кг\мазур\kglab2\openglrememberproj\render.cpp(531): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  OpenGLrememberProj.vcxproj -> D:\КГ\Мазур\KGLab2\Debug\OpenGLrememberProj.exe
+  OpenGLrememberProj.vcxproj -> D:\КГ\Мазур\KGLab2\Debug\OpenGLrememberProj.pdb (Partial PDB)
